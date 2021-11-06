@@ -1,0 +1,13 @@
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\bin\Debug\netcoreapp3.1\Academy.Management.App.Business.deps.json
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\bin\Debug\netcoreapp3.1\Academy.Management.App.Business.dll
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\bin\Debug\netcoreapp3.1\Academy.Management.App.Business.pdb
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\bin\Debug\netcoreapp3.1\Academy.Management.App.Domain.dll
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\bin\Debug\netcoreapp3.1\Academy.Management.App.Domain.pdb
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\obj\Debug\netcoreapp3.1\Academy.Management.App.Business.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\obj\Debug\netcoreapp3.1\Academy.Management.App.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\obj\Debug\netcoreapp3.1\Academy.Management.App.Business.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\obj\Debug\netcoreapp3.1\Academy.Management.App.Business.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\obj\Debug\netcoreapp3.1\Academy.Management.App.Business.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\obj\Debug\netcoreapp3.1\Academy.Management.App.Business.csproj.CopyComplete
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\obj\Debug\netcoreapp3.1\Academy.Management.App.Business.dll
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App.Business\obj\Debug\netcoreapp3.1\Academy.Management.App.Business.pdb

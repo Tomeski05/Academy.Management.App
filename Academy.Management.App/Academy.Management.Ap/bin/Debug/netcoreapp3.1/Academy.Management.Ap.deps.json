@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Academy.Management.Ap/1.0.0": {
+        "dependencies": {
+          "Academy.Management.App.Business": "1.0.0"
+        },
+        "runtime": {
+          "Academy.Management.Ap.dll": {}
+        }
+      },
+      "Academy.Management.App.Business/1.0.0": {
+        "dependencies": {
+          "Academy.Management.App.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Academy.Management.App.Business.dll": {}
+        }
+      },
+      "Academy.Management.App.Domain/1.0.0": {
+        "runtime": {
+          "Academy.Management.App.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Academy.Management.Ap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Academy.Management.App.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Academy.Management.App.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

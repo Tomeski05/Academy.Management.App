@@ -1,0 +1,9 @@
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App\bin\Debug\netcoreapp3.1\Academy.Management.App.Domain.deps.json
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App\bin\Debug\netcoreapp3.1\Academy.Management.App.Domain.dll
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App\bin\Debug\netcoreapp3.1\Academy.Management.App.Domain.pdb
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App\obj\Debug\netcoreapp3.1\Academy.Management.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App\obj\Debug\netcoreapp3.1\Academy.Management.App.Domain.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App\obj\Debug\netcoreapp3.1\Academy.Management.App.Domain.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App\obj\Debug\netcoreapp3.1\Academy.Management.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App\obj\Debug\netcoreapp3.1\Academy.Management.App.Domain.dll
+C:\Users\Filip\Desktop\Workshop C# Basic\Academy.Management.App\Academy.Management.App\obj\Debug\netcoreapp3.1\Academy.Management.App.Domain.pdb
