@@ -8,7 +8,7 @@ namespace Academy.Management.App.Models
     public class Admin : User
     {
         public Admin() { }
-        public Admin(int id, string fname, string lname, string email, string password) 
+        public Admin(int id, string fname, string lname, string email, string password)
             : base(id, fname, lname, email, password, Role.Admin)
         {
 

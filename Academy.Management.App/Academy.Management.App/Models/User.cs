@@ -27,7 +27,7 @@ namespace Academy.Management.App.Models
 
         public void ValidatePassword(string password)
         {
-            if(password != Password)
+            if (password != Password)
             {
                 throw new Exception("Not valid password");
             }
